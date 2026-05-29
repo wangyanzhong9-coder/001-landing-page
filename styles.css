@@ -26,6 +26,12 @@ a {
   text-decoration: none;
 }
 
+a:focus-visible,
+.button:focus-visible {
+  outline: 3px solid var(--accent);
+  outline-offset: 4px;
+}
+
 .site-header {
   background: var(--surface);
   border-bottom: 1px solid var(--line);
