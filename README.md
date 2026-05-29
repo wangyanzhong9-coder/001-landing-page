@@ -30,3 +30,9 @@ Rules:
 
 \- Provide commands to run and verify the result.
 
+
+## Local Preview
+
+- Open `index.html` directly by double-clicking the file.
+- Or open the project in VS Code and use the Live Server extension to preview `index.html`.
+- Live Server is only for local preview. It is not a deployment step.
