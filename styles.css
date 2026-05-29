@@ -126,6 +126,12 @@ h3 {
   margin-top: 28px;
 }
 
+.trust-note {
+  margin: 14px 0 0;
+  color: var(--muted);
+  font-size: 0.95rem;
+}
+
 .button {
   display: inline-flex;
   align-items: center;
