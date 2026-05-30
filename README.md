@@ -36,3 +36,11 @@ Rules:
 - Open `index.html` directly by double-clicking the file.
 - Or open the project in VS Code and use the Live Server extension to preview `index.html`.
 - Live Server is only for local preview. It is not a deployment step.
+
+## GitHub Workflow
+
+- Use `git status` before starting new work.
+- Use small safe changes.
+- Commit after manual verification.
+- Use `git push` to sync local commits to GitHub.
+- Use `git pull` before working on another computer.
