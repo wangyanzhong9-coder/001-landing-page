@@ -44,3 +44,8 @@ Rules:
 - Commit after manual verification.
 - Use `git push` to sync local commits to GitHub.
 - Use `git pull` before working on another computer.
+
+## Cross-Device Sync
+
+- Push changes before switching computers.
+- Pull latest changes before starting work on another computer.
