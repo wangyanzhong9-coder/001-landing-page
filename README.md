@@ -49,3 +49,12 @@ Rules:
 
 - Push changes before switching computers.
 - Pull latest changes before starting work on another computer.
+
+## Deployment
+
+GitHub Pages:
+https://wangyanzhong9-coder.github.io/001-landing-page/
+
+- This is a static GitHub Pages deployment.
+- It is deployed from the `main` branch.
+- It is suitable for previewing this static HTML/CSS training project.
