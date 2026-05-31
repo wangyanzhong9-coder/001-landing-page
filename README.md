@@ -58,3 +58,10 @@ https://wangyanzhong9-coder.github.io/001-landing-page/
 - This is a static GitHub Pages deployment.
 - It is deployed from the `main` branch.
 - It is suitable for previewing this static HTML/CSS training project.
+
+Vercel:
+https://001-landing-page-six.vercel.app/
+
+- This is a Vercel production deployment.
+- It is connected to the GitHub repo.
+- Pushing to the `main` branch can trigger a new Vercel deployment.
