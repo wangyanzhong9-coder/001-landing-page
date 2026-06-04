@@ -68,4 +68,4 @@ https://001-landing-page-six.vercel.app/
 
 ## Sync Training
 
-- This note was added from the main project to test normal pull behavior.
+- This note was updated from the clone-test project to create a conflict.
