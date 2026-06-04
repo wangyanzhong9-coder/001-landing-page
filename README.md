@@ -68,4 +68,4 @@ https://001-landing-page-six.vercel.app/
 
 ## Sync Training
 
-- This note was updated from the clone-test project to create a conflict.
+- This note was resolved after a simulated multi-computer conflict.
