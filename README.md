@@ -65,3 +65,7 @@ https://001-landing-page-six.vercel.app/
 - This is a Vercel production deployment.
 - It is connected to the GitHub repo.
 - Pushing to the `main` branch can trigger a new Vercel deployment.
+
+## Sync Training
+
+- This note was added from the main project to test normal pull behavior.
