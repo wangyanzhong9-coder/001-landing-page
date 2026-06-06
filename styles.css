@@ -206,6 +206,41 @@ h3 {
   font-size: 0.95rem;
 }
 
+.proof-strip {
+  padding: 18px 0;
+  background: var(--surface);
+  border-top: 1px solid var(--line);
+  border-bottom: 1px solid var(--line);
+}
+
+.proof-list {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 12px;
+  margin: 0;
+  padding: 0;
+  color: var(--muted);
+  font-size: 0.95rem;
+  font-weight: 700;
+  list-style: none;
+}
+
+.proof-list li {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  min-width: 0;
+}
+
+.proof-list li::before {
+  content: "";
+  flex: 0 0 auto;
+  width: 8px;
+  height: 8px;
+  background: var(--primary);
+  border-radius: 50%;
+}
+
 .section {
   padding: 64px 0;
 }
@@ -310,6 +345,10 @@ h3 {
   }
 
   .feature-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .proof-list {
     grid-template-columns: 1fr;
   }
 
